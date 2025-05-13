@@ -361,7 +361,7 @@ let people: [SelfIntroduction] = [
     ),
     SelfIntroduction(
         name: "전광호",
-        trainingPurpose: "화이팅",
+        trainingPurpose: "화이팅", // 화이팅 팅 팅 팅
         hobby: "음악 감상, 여행, 독서 등",
         mbti: "ISFP",
         strength: "끈기와 실행력",
